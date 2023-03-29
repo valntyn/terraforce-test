@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/terraforce-test/static/js/main.cf3d41f5.chunk.js",
+    "main.js.map": "/terraforce-test/static/js/main.cf3d41f5.chunk.js.map",
+    "runtime-main.js": "/terraforce-test/static/js/runtime-main.43d03d22.js",
+    "runtime-main.js.map": "/terraforce-test/static/js/runtime-main.43d03d22.js.map",
+    "static/js/2.3743c50c.chunk.js": "/terraforce-test/static/js/2.3743c50c.chunk.js",
+    "static/js/2.3743c50c.chunk.js.map": "/terraforce-test/static/js/2.3743c50c.chunk.js.map",
+    "index.html": "/terraforce-test/index.html",
+    "static/js/2.3743c50c.chunk.js.LICENSE.txt": "/terraforce-test/static/js/2.3743c50c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43d03d22.js",
+    "static/js/2.3743c50c.chunk.js",
+    "static/js/main.cf3d41f5.chunk.js"
+  ]
+}
